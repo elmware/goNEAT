@@ -1,9 +1,9 @@
 package genetics
 
 import (
-	"github.com/yaricom/goNEAT/neat/utils"
-	"github.com/yaricom/goNEAT/neat/network"
-	"github.com/yaricom/goNEAT/neat"
+	"github.com/elmware/goNEAT/neat/utils"
+	"github.com/elmware/goNEAT/neat/network"
+	"github.com/elmware/goNEAT/neat"
 	"math/rand"
 	"io"
 	"fmt"

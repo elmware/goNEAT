@@ -3,7 +3,7 @@ package genetics
 import (
 	"math/rand"
 	"errors"
-	"github.com/yaricom/goNEAT/neat"
+	"github.com/elmware/goNEAT/neat"
 
 	"io"
 	"fmt"

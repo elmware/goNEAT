@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"errors"
 	"bytes"
-	"github.com/yaricom/goNEAT/neat"
-	"github.com/yaricom/goNEAT/neat/utils"
+	"github.com/elmware/goNEAT/neat"
+	"github.com/elmware/goNEAT/neat/utils"
 )
 
 // A NODE is either a NEURON or a SENSOR.

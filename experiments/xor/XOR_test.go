@@ -5,10 +5,10 @@ import (
 	"time"
 	"os"
 	"fmt"
-	"github.com/yaricom/goNEAT/neat"
-	"github.com/yaricom/goNEAT/neat/genetics"
+	"github.com/elmware/goNEAT/neat"
+	"github.com/elmware/goNEAT/neat/genetics"
 	"math/rand"
-	"github.com/yaricom/goNEAT/experiments"
+	"github.com/elmware/goNEAT/experiments"
 )
 
 // The integration test running over multiple iterations in order to detect if any random errors occur.

@@ -3,11 +3,11 @@ package genetics
 import (
 	"testing"
 	"bytes"
-	"github.com/yaricom/goNEAT/neat"
+	"github.com/elmware/goNEAT/neat"
 	"fmt"
 	"strings"
 	"bufio"
-	"github.com/yaricom/goNEAT/neat/network"
+	"github.com/elmware/goNEAT/neat/network"
 	"reflect"
 )
 

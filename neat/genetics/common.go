@@ -3,8 +3,8 @@ package genetics
 
 import (
 	"errors"
-	"github.com/yaricom/goNEAT/neat"
-	"github.com/yaricom/goNEAT/neat/network"
+	"github.com/elmware/goNEAT/neat"
+	"github.com/elmware/goNEAT/neat/network"
 )
 
 // The innovation method type to be applied

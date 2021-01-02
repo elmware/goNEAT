@@ -6,9 +6,9 @@ import (
 	"time"
 	"os"
 	"fmt"
-	"github.com/yaricom/goNEAT/experiments"
-	"github.com/yaricom/goNEAT/neat"
-	"github.com/yaricom/goNEAT/neat/genetics"
+	"github.com/elmware/goNEAT/experiments"
+	"github.com/elmware/goNEAT/neat"
+	"github.com/elmware/goNEAT/neat/genetics"
 )
 
 // The integration test running running over multiple iterations

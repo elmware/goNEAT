@@ -6,12 +6,12 @@
 package xor
 
 import (
-	"github.com/yaricom/goNEAT/neat"
+	"github.com/elmware/goNEAT/neat"
 	"os"
 	"fmt"
-	"github.com/yaricom/goNEAT/neat/genetics"
+	"github.com/elmware/goNEAT/neat/genetics"
 	"math"
-	"github.com/yaricom/goNEAT/experiments"
+	"github.com/elmware/goNEAT/experiments"
 )
 
 // The fitness threshold value for successful solver

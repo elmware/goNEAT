@@ -7,10 +7,10 @@ import (
 	"time"
 	"reflect"
 
-	"github.com/yaricom/goNEAT/neat"
-	"github.com/yaricom/goNEAT/neat/utils"
-	"github.com/yaricom/goNEAT/neat/genetics"
-	"github.com/yaricom/goNEAT/neat/network"
+	"github.com/elmware/goNEAT/neat"
+	"github.com/elmware/goNEAT/neat/utils"
+	"github.com/elmware/goNEAT/neat/genetics"
+	"github.com/elmware/goNEAT/neat/network"
 )
 
 // Tests encoding/decoding of generation

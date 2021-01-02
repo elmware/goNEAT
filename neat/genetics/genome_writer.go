@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"gopkg.in/yaml.v2"
 	"github.com/spf13/cast"
-	"github.com/yaricom/goNEAT/neat"
-	"github.com/yaricom/goNEAT/neat/network"
-	"github.com/yaricom/goNEAT/neat/utils"
+	"github.com/elmware/goNEAT/neat"
+	"github.com/elmware/goNEAT/neat/network"
+	"github.com/elmware/goNEAT/neat/utils"
 )
 
 // The interface to define genome writer

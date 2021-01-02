@@ -7,11 +7,11 @@ import (
 	"log"
 	"flag"
 	"math/rand"
-	"github.com/yaricom/goNEAT/experiments"
-	"github.com/yaricom/goNEAT/neat"
-	"github.com/yaricom/goNEAT/neat/genetics"
-	"github.com/yaricom/goNEAT/experiments/xor"
-	"github.com/yaricom/goNEAT/experiments/pole"
+	"github.com/elmware/goNEAT/experiments"
+	"github.com/elmware/goNEAT/neat"
+	"github.com/elmware/goNEAT/neat/genetics"
+	"github.com/elmware/goNEAT/experiments/xor"
+	"github.com/elmware/goNEAT/experiments/pole"
 )
 
 // The experiment runner boilerplate code

@@ -2,10 +2,10 @@ package genetics
 
 import (
 	"testing"
-	"github.com/yaricom/goNEAT/neat/network"
-	"github.com/yaricom/goNEAT/neat"
+	"github.com/elmware/goNEAT/neat/network"
+	"github.com/elmware/goNEAT/neat"
 	"reflect"
-	"github.com/yaricom/goNEAT/neat/utils"
+	"github.com/elmware/goNEAT/neat/utils"
 )
 
 // Tests Gene WriteGene

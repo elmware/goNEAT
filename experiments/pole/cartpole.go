@@ -1,11 +1,11 @@
 package pole
 
 import (
-	"github.com/yaricom/goNEAT/neat"
-	"github.com/yaricom/goNEAT/neat/genetics"
-	"github.com/yaricom/goNEAT/experiments"
+	"github.com/elmware/goNEAT/neat"
+	"github.com/elmware/goNEAT/neat/genetics"
+	"github.com/elmware/goNEAT/experiments"
 	"math"
-	"github.com/yaricom/goNEAT/neat/network"
+	"github.com/elmware/goNEAT/neat/network"
 	"math/rand"
 	"fmt"
 	"os"
